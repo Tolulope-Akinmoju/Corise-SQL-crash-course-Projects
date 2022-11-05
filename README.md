@@ -1,2 +1,3 @@
 # Corise-SQL-crash-course-Projects
-This repository is to show a two-week SQL crash course project on the launch and scaling of Airbnb in Sydney
+I made this project by following Corise SQL crash course. The link for the course is below, if you are interested, please follow 
+https://corise.com/course/sql-crash-course
